@@ -14,23 +14,23 @@
 
 
 ## ProjectStructure
-[README](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/edit/main/README.md): Contains all information about the course.
+[README](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/main/README.md): Contains all information about the course.
 
-1. [01-Docker-Terraform-GCP](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/edit/main/README.md) : contains the following
+1. [01-Docker-Terraform-GCP](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/main/README.md) : contains the following
    * Docker Explanation and setup
    * Data Ingestion with Docker and PostgreSql 
    * Terraform Explanation and setup
    * Google Cloud Platform explanation and setup
 
-3. [02-Workflow-Orchestration](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/edit/main/README.md) : Workflow Orchestration with Prefect
+3. [02-Workflow-Orchestration](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/main/README.md) : Workflow Orchestration with Prefect
    
-4. [03-Data Warehouse](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/edit/main/README.md): Data Warehouse BigQuery
+4. [03-Data Warehouse](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/main/README.md): Data Warehouse BigQuery
 
-5. [04-Analytics-Engineering](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/edit/main/README.md) : Analystics Engineering with dbt
+5. [04-Analytics-Engineering](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/main/README.md) : Analystics Engineering with dbt
 
-6. [05-Batch](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/edit/main/README.md) : Batch Processing with PySpark and PySql
+6. [05-Batch](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/main/README.md) : Batch Processing with PySpark and PySql
 
-7. [06-Streaming](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/edit/main/README.md) : Stream Processing with Kafka
+7. [06-Streaming](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/main/README.md) : Stream Processing with Kafka
 
 
 ## 01-Docker-Terraform-GCP
